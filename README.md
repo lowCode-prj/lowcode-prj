@@ -2,7 +2,7 @@
 
 # 使用前请先确保电脑上安装git
     (git下载安装：https://blog.csdn.net/pioneer573/article/details/123448072)
-# github下载项目（脚手架vue-cli2版本创建的项目（实现代码导入，测试组件））# 代码导出示例下载
+# github下载项目（（实现代码导入，测试组件））# 代码导出示例下载
     https://github.com/lowCode-prj/lowcode-prj.git
 # 引入echarts插件
     npm install -save echarts@4.1.0
