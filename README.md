@@ -6,6 +6,7 @@
 	
 # github下载项目（（实现代码导入，测试组件））# 代码导出示例下载
     https://github.com/lowCode-prj/lowcode-prj.git
+    git命令行拉取代码：git clone https://github.com/lowCode-prj/lowcode-prj.git
 	
 # 安装依赖
     npm install
