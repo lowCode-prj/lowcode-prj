@@ -1,0 +1,16 @@
+/* 注册字体，上传到Minio的字体文件，名称不要有中文字符 */
+@font-face {
+  font-family: YouSheBiaoTiHei;
+  src: url(../resource/YSBTH.ttf);
+}
+
+@font-face {
+  font-family: PangMenZhengDaoBiaoTiTi;
+  src: url(../resource/PangMenZhengDaoBiaoTiTi.ttf);
+}
+
+#h {
+  font-family: 'YouSheBiaoTiHei','PangMenZhengDaoBiaoTiTi';
+
+}
+
