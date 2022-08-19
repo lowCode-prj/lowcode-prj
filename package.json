@@ -12,6 +12,7 @@
     "biyi-icon": "^1.0.0",
     "core-js": "^3.6.5",
     "echarts": "^4.1.0",
+    "echarts-liquidfill": "^2.0.6",
     "less": "^3.13.1",
     "less-loader": "^4.1.0",
     "nanoid": "^3.2.0",
